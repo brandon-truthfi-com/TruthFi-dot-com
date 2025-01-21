@@ -1,0 +1,33 @@
+.loadingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px; /* Adjust height as needed */
+    background-color: #f9f9f9; /* Light background for contrast */
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .loadingImage {
+    animation: spin 2s linear infinite; /* Spin animation for the image */
+    border-radius: 50%; /* Circular appearance */
+  }
+  
+  .loadingText {
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Keyframes for spinning animation */
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
