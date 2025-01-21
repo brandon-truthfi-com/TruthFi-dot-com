@@ -89,7 +89,7 @@ Follow these steps to get TruthFi running on your local machine. 💻
 Want to contribute? We welcome all improvements! 💡 Check out our Contributing Guidelines.
 
 ### 🤝 Contact Us 📬
-📧 For inquiries or support, email us at support@truthfi.com.
+📧 For inquiries or support, email us at info@playfairapp.com.
 Follow us on Twitter for updates and insights! 🐦
 
 ### 📜 License
